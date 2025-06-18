@@ -215,3 +215,10 @@ Berdasarkan wawasan dari Employee Attrition Dashboard, berikut adalah langkah-la
     - Lakukan evaluasi berkala berbasis dashboard ini untuk membantu tim HR membuat keputusan yang lebih cepat, akurat, dan preventif.
 
 Dengan menerapkan strategi-strategi di atas, perusahaan tidak hanya dapat mengurangi tingkat attrition, namun juga membangun budaya kerja yang lebih sehat, loyal, dan berkelanjutan.
+
+6. Pengembangan Sistem Prediksi untuk Deteksi Dini
+
+- Selain visualisasi dashboard, proyek ini juga membangun model prediksi machine learning menggunakan algoritma klasifikasi untuk mengidentifikasi karyawan yang berisiko tinggi melakukan attrition. Model ini dapat digunakan oleh tim HR sebagai sistem peringatan dini (*early warning system*) yang memberikan notifikasi terhadap karyawan yang menunjukkan pola-pola serupa dengan karyawan yang telah resign.
+
+- Dengan sistem prediksi ini, perusahaan dapat mengambil tindakan preventif secara lebih cepat dan tepat sasaran, seperti melakukan pendekatan personal, menawarkan opsi kerja fleksibel, atau penyesuaian insentif.
+
